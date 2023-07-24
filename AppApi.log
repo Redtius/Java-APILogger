@@ -28,3 +28,9 @@ Request: GET | http://127.0.0.1:8000/profil/1/info
 Status: 404
 Response: Not Found
 ====================================================
+====================================================
+Date: [10-07-2023 11:06:11]
+Request: GET | https://api.publicapis.org/entries
+Status: 200
+Response: OK
+====================================================
